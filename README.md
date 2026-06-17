@@ -27,11 +27,12 @@ The clean, half-second pulse from the NE555 serves as the clock input for the **
 * 1x 7-Segment Display (Common Cathode)
 * Passive Components: 10kΩ, 2.2kΩ, 330Ω, 100Ω resistors, 47µF capacitor
 * 5V DC Power Supply
+<img width="605" height="454" alt="Resim2" src="https://github.com/user-attachments/assets/2e8249c9-f3b9-4fa9-86d7-aa75fc8491c8" />
 
 ## Circuit Schematic
 <img width="605" height="428" alt="Resim1" src="https://github.com/user-attachments/assets/6a3d6057-f6bc-4dce-a240-316fe92571ba" />
 
-<img width="605" height="454" alt="Resim2" src="https://github.com/user-attachments/assets/2e8249c9-f3b9-4fa9-86d7-aa75fc8491c8" />
+
 ## Simulation
 Before physical implementation on a breadboard, the circuit behavior—especially the monostable pulse generation of the NE555 and the clocking of the CD4026—was fully simulated and verified using Proteus.
 
